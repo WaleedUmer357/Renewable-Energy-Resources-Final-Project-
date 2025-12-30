@@ -2,11 +2,11 @@
 Design of a 5MW PV Plant-Grid Connected
  5 MW Grid-Connected Solar PV Plant – NSW, Australia
 
-📍 Location: Near Wallsend, New South Wales, Australia  
-🎓 Course: 7405ENG – Renewable Energy Systems  
-🏫 Institution: Griffith School of Engineering, Griffith University  
+ Location: Near Wallsend, New South Wales, Australia  
+Course: 7405ENG – Renewable Energy Systems  
+ Institution: Griffith School of Engineering, Griffith University  
 
- 📌 Project Overview
+  Project Overview
 This project presents the design, modelling, and financial evaluation of a 5 MW grid-connected solar photovoltaic (PV) power plant located near Wallsend, NSW.  
 The study supports Australia’s transition to renewable energy and aligns with NSW Net Zero targets and Australia’s 2050 net-zero emissions commitment.
 
@@ -18,13 +18,13 @@ The system was modelled using RETScreen Expert, covering:
 
 
 
- 👥 Contributors
+ Contributors
 - Waleed Umer (70%)  
 - Doniyorbek Asatillaev (30%)
 
 
 
- ⚙️ Technical Specifications
+  Technical Specifications
 
  Solar PV System
 - Plant Capacity: 5 MW  
@@ -41,7 +41,7 @@ The system was modelled using RETScreen Expert, covering:
 
 
 
- ⚡ Energy Performance
+  Energy Performance
 - Annual Electricity Export: 6,783 MWh  
 - Capacity Factor: 15.5%  
 - Annual Energy Revenue: AUD 949,604  
@@ -49,7 +49,7 @@ The system was modelled using RETScreen Expert, covering:
 
 
 
- 🌱 Environmental Impact
+ Environmental Impact
 - Annual GHG Reduction: 4,630 tCO₂  
 - Equivalent Impact: ~848 cars removed from roads annually  
 - Carbon Credits: ACCUs + shadow carbon pricing analysis  
@@ -57,7 +57,7 @@ The system was modelled using RETScreen Expert, covering:
 
 
 
- 💰 Financial Highlights
+  Financial Highlights
 - Project Life: 25 years  
 - NPV: AUD 2.34 million  
 - Simple Payback Period: ~9.2 years  
@@ -67,7 +67,7 @@ The system was modelled using RETScreen Expert, covering:
 
 
 
- 🛠 Cost Considerations
+  Cost Considerations
 - Annual O&M costs: ~AUD 122,000  
 - Inverter replacement every 10 years  
 - Insurance, land lease, property tax, and maintenance included  
@@ -75,7 +75,7 @@ The system was modelled using RETScreen Expert, covering:
 
 
 
- 📊 Tools & Methodology
+ Tools & Methodology
 - RETScreen Expert for:
   - Energy modelling
   - Financial viability
